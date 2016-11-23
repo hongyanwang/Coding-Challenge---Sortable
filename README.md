@@ -1,8 +1,8 @@
 # Coding-Challenge---Sortable
-copy these files under the same directory
+copy these files, including the folder cJSON, under the same directory
 
-compile using the command: gcc main.c
+compile using the command: make all
 
-run the program using the command: ./a.out
+run the program using the command: ./main
 
-the output file is "result.txt"
+the output file is "results.txt"
