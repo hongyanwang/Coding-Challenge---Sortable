@@ -1,5 +1,5 @@
 # Coding-Challenge---Sortable
-copy these files, including the folder cJSON, under the same directory
+clone my repository, including the folder cJSON
 
 under the cJSON directory, make a library using the command: make all
 
